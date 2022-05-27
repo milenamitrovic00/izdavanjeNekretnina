@@ -1,0 +1,117 @@
+C:\Users\i5\Desktop\izdavanjeNekretnina\Domaci 4\bin\Debug\izdavanjeNekretnina.exe.config
+C:\Users\i5\Desktop\izdavanjeNekretnina\Domaci 4\bin\Debug\izdavanjeNekretnina.exe
+C:\Users\i5\Desktop\izdavanjeNekretnina\Domaci 4\bin\Debug\izdavanjeNekretnina.pdb
+C:\Users\i5\Desktop\izdavanjeNekretnina\Domaci 4\bin\Debug\MaterialDesignColors.dll
+C:\Users\i5\Desktop\izdavanjeNekretnina\Domaci 4\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\i5\Desktop\izdavanjeNekretnina\Domaci 4\bin\Debug\MaterialDesignColors.pdb
+C:\Users\i5\Desktop\izdavanjeNekretnina\Domaci 4\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\i5\Desktop\izdavanjeNekretnina\Domaci 4\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\i5\Desktop\izdavanjeNekretnina\Domaci 4\obj\Debug\izdavanjeNekretnina.csproj.AssemblyReference.cache
+C:\Users\i5\Desktop\izdavanjeNekretnina\Domaci 4\obj\Debug\Windows\Check-In.g.cs
+C:\Users\i5\Desktop\izdavanjeNekretnina\Domaci 4\obj\Debug\Windows\Error.g.cs
+C:\Users\i5\Desktop\izdavanjeNekretnina\Domaci 4\obj\Debug\Windows\Login.g.cs
+C:\Users\i5\Desktop\izdavanjeNekretnina\Domaci 4\obj\Debug\Windows\Maintenence.g.cs
+C:\Users\i5\Desktop\izdavanjeNekretnina\Domaci 4\obj\Debug\Windows\MainWindow.g.cs
+C:\Users\i5\Desktop\izdavanjeNekretnina\Domaci 4\obj\Debug\Windows\Payroll.g.cs
+C:\Users\i5\Desktop\izdavanjeNekretnina\Domaci 4\obj\Debug\App.g.cs
+C:\Users\i5\Desktop\izdavanjeNekretnina\Domaci 4\obj\Debug\izdavanjeNekretnina_MarkupCompile.cache
+C:\Users\i5\Desktop\izdavanjeNekretnina\Domaci 4\obj\Debug\izdavanjeNekretnina_MarkupCompile.lref
+C:\Users\i5\Desktop\izdavanjeNekretnina\Domaci 4\obj\Debug\App.baml
+C:\Users\i5\Desktop\izdavanjeNekretnina\Domaci 4\obj\Debug\Windows\Check-In.baml
+C:\Users\i5\Desktop\izdavanjeNekretnina\Domaci 4\obj\Debug\Windows\Error.baml
+C:\Users\i5\Desktop\izdavanjeNekretnina\Domaci 4\obj\Debug\Windows\Login.baml
+C:\Users\i5\Desktop\izdavanjeNekretnina\Domaci 4\obj\Debug\Windows\Maintenence.baml
+C:\Users\i5\Desktop\izdavanjeNekretnina\Domaci 4\obj\Debug\Windows\MainWindow.baml
+C:\Users\i5\Desktop\izdavanjeNekretnina\Domaci 4\obj\Debug\Windows\Payroll.baml
+C:\Users\i5\Desktop\izdavanjeNekretnina\Domaci 4\obj\Debug\izdavanjeNekretnina.g.resources
+C:\Users\i5\Desktop\izdavanjeNekretnina\Domaci 4\obj\Debug\izdavanjeNekretnina.Properties.Resources.resources
+C:\Users\i5\Desktop\izdavanjeNekretnina\Domaci 4\obj\Debug\izdavanjeNekretnina.csproj.GenerateResource.cache
+C:\Users\i5\Desktop\izdavanjeNekretnina\Domaci 4\obj\Debug\izdavanjeNekretnina.csproj.CoreCompileInputs.cache
+C:\Users\i5\Desktop\izdavanjeNekretnina\Domaci 4\obj\Debug\izdavanjeNekretnina.csproj.CopyComplete
+C:\Users\i5\Desktop\izdavanjeNekretnina\Domaci 4\obj\Debug\izdavanjeNekretnina.exe
+C:\Users\i5\Desktop\izdavanjeNekretnina\Domaci 4\obj\Debug\izdavanjeNekretnina.pdb
+C:\Users\i5\Desktop\izdavanjeNekretnina\izdavanjeNekretnina\bin\Debug\izdavanjeNekretnina.exe.config
+C:\Users\i5\Desktop\izdavanjeNekretnina\izdavanjeNekretnina\bin\Debug\izdavanjeNekretnina.exe
+C:\Users\i5\Desktop\izdavanjeNekretnina\izdavanjeNekretnina\bin\Debug\izdavanjeNekretnina.pdb
+C:\Users\i5\Desktop\izdavanjeNekretnina\izdavanjeNekretnina\bin\Debug\MaterialDesignColors.dll
+C:\Users\i5\Desktop\izdavanjeNekretnina\izdavanjeNekretnina\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\i5\Desktop\izdavanjeNekretnina\izdavanjeNekretnina\bin\Debug\MaterialDesignColors.pdb
+C:\Users\i5\Desktop\izdavanjeNekretnina\izdavanjeNekretnina\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\i5\Desktop\izdavanjeNekretnina\izdavanjeNekretnina\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\i5\Desktop\izdavanjeNekretnina\izdavanjeNekretnina\obj\Debug\izdavanjeNekretnina.csproj.AssemblyReference.cache
+C:\Users\i5\Desktop\izdavanjeNekretnina\izdavanjeNekretnina\obj\Debug\Windows\Check-In.g.cs
+C:\Users\i5\Desktop\izdavanjeNekretnina\izdavanjeNekretnina\obj\Debug\Windows\Error.g.cs
+C:\Users\i5\Desktop\izdavanjeNekretnina\izdavanjeNekretnina\obj\Debug\Windows\Login.g.cs
+C:\Users\i5\Desktop\izdavanjeNekretnina\izdavanjeNekretnina\obj\Debug\Windows\Maintenence.g.cs
+C:\Users\i5\Desktop\izdavanjeNekretnina\izdavanjeNekretnina\obj\Debug\Windows\MainWindow.g.cs
+C:\Users\i5\Desktop\izdavanjeNekretnina\izdavanjeNekretnina\obj\Debug\Windows\Payroll.g.cs
+C:\Users\i5\Desktop\izdavanjeNekretnina\izdavanjeNekretnina\obj\Debug\App.g.cs
+C:\Users\i5\Desktop\izdavanjeNekretnina\izdavanjeNekretnina\obj\Debug\izdavanjeNekretnina_MarkupCompile.cache
+C:\Users\i5\Desktop\izdavanjeNekretnina\izdavanjeNekretnina\obj\Debug\izdavanjeNekretnina_MarkupCompile.lref
+C:\Users\i5\Desktop\izdavanjeNekretnina\izdavanjeNekretnina\obj\Debug\App.baml
+C:\Users\i5\Desktop\izdavanjeNekretnina\izdavanjeNekretnina\obj\Debug\Windows\Check-In.baml
+C:\Users\i5\Desktop\izdavanjeNekretnina\izdavanjeNekretnina\obj\Debug\Windows\Error.baml
+C:\Users\i5\Desktop\izdavanjeNekretnina\izdavanjeNekretnina\obj\Debug\Windows\Login.baml
+C:\Users\i5\Desktop\izdavanjeNekretnina\izdavanjeNekretnina\obj\Debug\Windows\Maintenence.baml
+C:\Users\i5\Desktop\izdavanjeNekretnina\izdavanjeNekretnina\obj\Debug\Windows\MainWindow.baml
+C:\Users\i5\Desktop\izdavanjeNekretnina\izdavanjeNekretnina\obj\Debug\Windows\Payroll.baml
+C:\Users\i5\Desktop\izdavanjeNekretnina\izdavanjeNekretnina\obj\Debug\izdavanjeNekretnina.g.resources
+C:\Users\i5\Desktop\izdavanjeNekretnina\izdavanjeNekretnina\obj\Debug\izdavanjeNekretnina.Properties.Resources.resources
+C:\Users\i5\Desktop\izdavanjeNekretnina\izdavanjeNekretnina\obj\Debug\izdavanjeNekretnina.csproj.GenerateResource.cache
+C:\Users\i5\Desktop\izdavanjeNekretnina\izdavanjeNekretnina\obj\Debug\izdavanjeNekretnina.csproj.CoreCompileInputs.cache
+C:\Users\i5\Desktop\izdavanjeNekretnina\izdavanjeNekretnina\obj\Debug\izdavanjeNekretnina.csproj.CopyComplete
+C:\Users\i5\Desktop\izdavanjeNekretnina\izdavanjeNekretnina\obj\Debug\izdavanjeNekretnina.exe
+C:\Users\i5\Desktop\izdavanjeNekretnina\izdavanjeNekretnina\obj\Debug\izdavanjeNekretnina.pdb
+C:\Users\Milena\OneDrive\Desktop\izdavanjeNekretnina\izdavanjeNekretnina\bin\Debug\izdavanjeNekretnina.exe.config
+C:\Users\Milena\OneDrive\Desktop\izdavanjeNekretnina\izdavanjeNekretnina\bin\Debug\izdavanjeNekretnina.exe
+C:\Users\Milena\OneDrive\Desktop\izdavanjeNekretnina\izdavanjeNekretnina\bin\Debug\izdavanjeNekretnina.pdb
+C:\Users\Milena\OneDrive\Desktop\izdavanjeNekretnina\izdavanjeNekretnina\bin\Debug\MaterialDesignColors.dll
+C:\Users\Milena\OneDrive\Desktop\izdavanjeNekretnina\izdavanjeNekretnina\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Milena\OneDrive\Desktop\izdavanjeNekretnina\izdavanjeNekretnina\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Milena\OneDrive\Desktop\izdavanjeNekretnina\izdavanjeNekretnina\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Milena\OneDrive\Desktop\izdavanjeNekretnina\izdavanjeNekretnina\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Milena\OneDrive\Desktop\izdavanjeNekretnina\izdavanjeNekretnina\obj\Debug\izdavanjeNekretnina.csproj.AssemblyReference.cache
+C:\Users\Milena\OneDrive\Desktop\izdavanjeNekretnina\izdavanjeNekretnina\obj\Debug\Windows\Check-In.g.cs
+C:\Users\Milena\OneDrive\Desktop\izdavanjeNekretnina\izdavanjeNekretnina\obj\Debug\Windows\Login.g.cs
+C:\Users\Milena\OneDrive\Desktop\izdavanjeNekretnina\izdavanjeNekretnina\obj\Debug\Windows\Maintenence.g.cs
+C:\Users\Milena\OneDrive\Desktop\izdavanjeNekretnina\izdavanjeNekretnina\obj\Debug\Windows\MainWindow.g.cs
+C:\Users\Milena\OneDrive\Desktop\izdavanjeNekretnina\izdavanjeNekretnina\obj\Debug\App.g.cs
+C:\Users\Milena\OneDrive\Desktop\izdavanjeNekretnina\izdavanjeNekretnina\obj\Debug\izdavanjeNekretnina_MarkupCompile.cache
+C:\Users\Milena\OneDrive\Desktop\izdavanjeNekretnina\izdavanjeNekretnina\obj\Debug\izdavanjeNekretnina_MarkupCompile.lref
+C:\Users\Milena\OneDrive\Desktop\izdavanjeNekretnina\izdavanjeNekretnina\obj\Debug\App.baml
+C:\Users\Milena\OneDrive\Desktop\izdavanjeNekretnina\izdavanjeNekretnina\obj\Debug\Windows\Check-In.baml
+C:\Users\Milena\OneDrive\Desktop\izdavanjeNekretnina\izdavanjeNekretnina\obj\Debug\Windows\Login.baml
+C:\Users\Milena\OneDrive\Desktop\izdavanjeNekretnina\izdavanjeNekretnina\obj\Debug\Windows\Maintenence.baml
+C:\Users\Milena\OneDrive\Desktop\izdavanjeNekretnina\izdavanjeNekretnina\obj\Debug\Windows\MainWindow.baml
+C:\Users\Milena\OneDrive\Desktop\izdavanjeNekretnina\izdavanjeNekretnina\obj\Debug\izdavanjeNekretnina.g.resources
+C:\Users\Milena\OneDrive\Desktop\izdavanjeNekretnina\izdavanjeNekretnina\obj\Debug\izdavanjeNekretnina.Properties.Resources.resources
+C:\Users\Milena\OneDrive\Desktop\izdavanjeNekretnina\izdavanjeNekretnina\obj\Debug\izdavanjeNekretnina.csproj.GenerateResource.cache
+C:\Users\Milena\OneDrive\Desktop\izdavanjeNekretnina\izdavanjeNekretnina\obj\Debug\izdavanjeNekretnina.csproj.CoreCompileInputs.cache
+C:\Users\Milena\OneDrive\Desktop\izdavanjeNekretnina\izdavanjeNekretnina\obj\Debug\izdavanjeNekretnina.csproj.CopyComplete
+C:\Users\Milena\OneDrive\Desktop\izdavanjeNekretnina\izdavanjeNekretnina\obj\Debug\izdavanjeNekretnina.exe
+C:\Users\Milena\OneDrive\Desktop\izdavanjeNekretnina\izdavanjeNekretnina\obj\Debug\izdavanjeNekretnina.pdb
+C:\Users\Milena\OneDrive\Desktop\izdavanjeNekretnina\izdavanjeNekretnina\bin\Debug\Gosti.db
+C:\Users\Milena\OneDrive\Desktop\izdavanjeNekretnina\izdavanjeNekretnina\bin\Debug\EntityFramework.dll
+C:\Users\Milena\OneDrive\Desktop\izdavanjeNekretnina\izdavanjeNekretnina\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Milena\OneDrive\Desktop\izdavanjeNekretnina\izdavanjeNekretnina\bin\Debug\System.Data.SQLite.dll
+C:\Users\Milena\OneDrive\Desktop\izdavanjeNekretnina\izdavanjeNekretnina\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Milena\OneDrive\Desktop\izdavanjeNekretnina\izdavanjeNekretnina\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Milena\OneDrive\Desktop\izdavanjeNekretnina\izdavanjeNekretnina\bin\Debug\EntityFramework.xml
+C:\Users\Milena\OneDrive\Desktop\izdavanjeNekretnina\izdavanjeNekretnina\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Milena\OneDrive\Desktop\izdavanjeNekretnina\izdavanjeNekretnina\bin\Debug\System.Data.SQLite.xml
+C:\Users\Milena\OneDrive\Desktop\izdavanjeNekretnina\izdavanjeNekretnina\obj\Debug\Windows\Payment.g.cs
+C:\Users\Milena\OneDrive\Desktop\izdavanjeNekretnina\izdavanjeNekretnina\obj\Debug\Windows\Payment.baml
+C:\Users\Milena\OneDrive\Desktop\izdavanjeNekretnina\izdavanjeNekretnina\bin\Debug\FluentValidation.dll
+C:\Users\Milena\OneDrive\Desktop\izdavanjeNekretnina\izdavanjeNekretnina\bin\Debug\FluentValidation.xml
+C:\Users\Milena\OneDrive\Desktop\izdavanjeNekretnina\izdavanjeNekretnina\obj\Debug\Windows\NotifyUser\Error.g.cs
+C:\Users\Milena\OneDrive\Desktop\izdavanjeNekretnina\izdavanjeNekretnina\obj\Debug\Windows\NotifyUser\GreskaPovezivanjaBaze.g.cs
+C:\Users\Milena\OneDrive\Desktop\izdavanjeNekretnina\izdavanjeNekretnina\obj\Debug\Windows\NotifyUser\Obavestenje.g.cs
+C:\Users\Milena\OneDrive\Desktop\izdavanjeNekretnina\izdavanjeNekretnina\obj\Debug\Windows\NotifyUser\Obavestenje2.g.cs
+C:\Users\Milena\OneDrive\Desktop\izdavanjeNekretnina\izdavanjeNekretnina\obj\Debug\Windows\NotifyUser\Error.baml
+C:\Users\Milena\OneDrive\Desktop\izdavanjeNekretnina\izdavanjeNekretnina\obj\Debug\Windows\NotifyUser\GreskaPovezivanjaBaze.baml
+C:\Users\Milena\OneDrive\Desktop\izdavanjeNekretnina\izdavanjeNekretnina\obj\Debug\Windows\NotifyUser\Obavestenje.baml
+C:\Users\Milena\OneDrive\Desktop\izdavanjeNekretnina\izdavanjeNekretnina\obj\Debug\Windows\NotifyUser\Obavestenje2.baml
+C:\Users\Milena\OneDrive\Desktop\izdavanjeNekretnina\izdavanjeNekretnina\obj\Debug\Windows\CuvanjePodatakaBaza.g.cs
+C:\Users\Milena\OneDrive\Desktop\izdavanjeNekretnina\izdavanjeNekretnina\obj\Debug\Windows\CuvanjePodatakaBaza.baml
+C:\Users\Milena\OneDrive\Desktop\izdavanjeNekretnina\izdavanjeNekretnina\obj\Debug\Windows\NotifyUser\CalculationError.g.cs
+C:\Users\Milena\OneDrive\Desktop\izdavanjeNekretnina\izdavanjeNekretnina\obj\Debug\Windows\NotifyUser\CalculationError.baml

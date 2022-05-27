@@ -1,0 +1,88 @@
+﻿<UserControl x:Class="izdavanjeNekretnina.Windows.Check_In"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:izdavanjeNekretnina.Windows"
+             mc:Ignorable="d" 
+             xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        TextElement.Foreground="{DynamicResource MaterialDesignBody}"
+        TextElement.FontWeight="Regular"
+        TextElement.FontSize="13"
+        TextOptions.TextFormattingMode="Ideal" 
+        TextOptions.TextRenderingMode="Auto"        
+        Background="{DynamicResource MaterialDesignPaper}"
+        FontFamily="{DynamicResource MaterialDesignFont}"
+        Height="auto" Width="auto">
+    <Grid>
+        <materialDesign:TransitioningContent x:Name="Effect" OpeningEffect="{materialDesign:TransitionEffect SlideInFromLeft, Duration=0:0:0.8}">
+
+            <Grid VerticalAlignment="Top">
+
+
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+
+                <Grid Grid.Column="0">
+         
+                    <StackPanel HorizontalAlignment="Center" VerticalAlignment="Bottom">
+
+                        <StackPanel>
+
+                        </StackPanel>
+                        <StackPanel Orientation="Horizontal" Width="310" Margin="10">
+                            <materialDesign:PackIcon Kind="Account" VerticalAlignment="Center"/>
+                            <TextBox x:Name="Name" materialDesign:HintAssist.Hint="Name" Width="300" Foreground="gray" FontFamily="Rubik" Margin="5"  />
+                        </StackPanel>
+
+                        <StackPanel Orientation="Horizontal" Width="310" Margin="10" >
+                            <materialDesign:PackIcon Kind="AccountAdd" VerticalAlignment="Center"/>
+                            <TextBox x:Name="Surname" materialDesign:HintAssist.Hint="Surname" Width="300" Foreground="Gray" FontFamily="Rubik" Margin="5" ></TextBox>
+                        </StackPanel>
+
+                        <StackPanel Orientation="Horizontal" Width="310" Margin="10" >
+                            <materialDesign:PackIcon Kind="IdCard" VerticalAlignment="Center"/>
+                            <TextBox x:Name="ID" materialDesign:HintAssist.Hint="ID" Width="300" Foreground="Gray" FontFamily="Rubik" Margin="5" ></TextBox>
+                        </StackPanel>
+
+                        <StackPanel Orientation="Horizontal" Width="310" Margin="10" >
+                            <materialDesign:PackIcon Kind="Phone" VerticalAlignment="Center"/>
+                            <TextBox x:Name="PhoneNumber" materialDesign:HintAssist.Hint="Phone Number" Width="300" Foreground="Gray" FontFamily="Rubik" Margin="5" ></TextBox>
+                        </StackPanel>
+
+                        <StackPanel Orientation="Horizontal" Width="310" Margin="10" >
+                            <DatePicker  x:Name="CheckIn" materialDesign:HintAssist.Hint="Reservation Check-in Date" Width="300" Foreground="Gray" FontFamily="Rubik" Margin="5" DisplayDateStart="2022-05-01" DisplayDateEnd="2023-05-31"></DatePicker>
+                        </StackPanel>
+
+                        <StackPanel Orientation="Horizontal" Width="310" Margin="10" >
+                            <DatePicker x:Name="CheckOut" materialDesign:HintAssist.Hint="Reservation Check-out Date" Width="300" Foreground="Gray" FontFamily="Rubik" Margin="5" DisplayDateStart="2022-05-01" DisplayDateEnd="2023-05-31" ></DatePicker>
+                        </StackPanel>
+
+
+                        <Button Width="150" 
+                                
+            Style="{StaticResource MaterialDesignRaisedDarkButton}"
+            Height="30"
+            materialDesign:ButtonAssist.CornerRadius="20"
+            ToolTip="MaterialDesignRaisedDarkButton with Round Corners" Margin="20"
+            Click="BtnRent">
+
+                            <StackPanel Orientation="Horizontal" >
+                                <TextBlock Text="Rent"/>
+
+                            </StackPanel>
+                        </Button>
+
+                    </StackPanel>
+                </Grid>
+
+
+               
+
+
+            </Grid>
+        </materialDesign:TransitioningContent>
+    </Grid>
+</UserControl>

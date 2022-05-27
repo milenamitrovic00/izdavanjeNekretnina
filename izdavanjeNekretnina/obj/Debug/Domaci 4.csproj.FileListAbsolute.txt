@@ -1,0 +1,64 @@
+C:\Users\Milena\source\repos\Domaci 4\Domaci 4\bin\Debug\Domaci 4.exe.config
+C:\Users\Milena\source\repos\Domaci 4\Domaci 4\bin\Debug\Domaci 4.exe
+C:\Users\Milena\source\repos\Domaci 4\Domaci 4\bin\Debug\Domaci 4.pdb
+C:\Users\Milena\source\repos\Domaci 4\Domaci 4\obj\Debug\Domaci 4.csprojAssemblyReference.cache
+C:\Users\Milena\source\repos\Domaci 4\Domaci 4\obj\Debug\Windows\Login.g.cs
+C:\Users\Milena\source\repos\Domaci 4\Domaci 4\obj\Debug\Windows\MainWindow.g.cs
+C:\Users\Milena\source\repos\Domaci 4\Domaci 4\obj\Debug\App.g.cs
+C:\Users\Milena\source\repos\Domaci 4\Domaci 4\obj\Debug\Domaci 4_MarkupCompile.cache
+C:\Users\Milena\source\repos\Domaci 4\Domaci 4\obj\Debug\Domaci 4_MarkupCompile.lref
+C:\Users\Milena\source\repos\Domaci 4\Domaci 4\obj\Debug\Windows\Login.baml
+C:\Users\Milena\source\repos\Domaci 4\Domaci 4\obj\Debug\Windows\MainWindow.baml
+C:\Users\Milena\source\repos\Domaci 4\Domaci 4\obj\Debug\Domaci 4.g.resources
+C:\Users\Milena\source\repos\Domaci 4\Domaci 4\obj\Debug\Domaci_4.Properties.Resources.resources
+C:\Users\Milena\source\repos\Domaci 4\Domaci 4\obj\Debug\Domaci 4.csproj.GenerateResource.cache
+C:\Users\Milena\source\repos\Domaci 4\Domaci 4\obj\Debug\Domaci 4.csproj.CoreCompileInputs.cache
+C:\Users\Milena\source\repos\Domaci 4\Domaci 4\obj\Debug\Domaci 4.exe
+C:\Users\Milena\source\repos\Domaci 4\Domaci 4\obj\Debug\Domaci 4.pdb
+C:\Users\Milena\source\repos\Domaci 4\Domaci 4\bin\Debug\MaterialDesignColors.dll
+C:\Users\Milena\source\repos\Domaci 4\Domaci 4\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Milena\source\repos\Domaci 4\Domaci 4\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Milena\source\repos\Domaci 4\Domaci 4\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Milena\source\repos\Domaci 4\Domaci 4\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Milena\source\repos\Domaci 4\Domaci 4\obj\Debug\App.baml
+C:\Users\Milena\source\repos\Domaci 4\Domaci 4\obj\Debug\Domaci 4.csproj.CopyComplete
+C:\Users\Milena\source\repos\Domaci 4\Domaci 4\obj\Debug\Windows\Error.g.cs
+C:\Users\Milena\source\repos\Domaci 4\Domaci 4\obj\Debug\Windows\Error.baml
+C:\Users\Milena\source\repos\Domaci 4\Domaci 4\obj\Debug\Windows\Check-In.g.cs
+C:\Users\Milena\source\repos\Domaci 4\Domaci 4\obj\Debug\Windows\Maintenence.g.cs
+C:\Users\Milena\source\repos\Domaci 4\Domaci 4\obj\Debug\Windows\Payroll.g.cs
+C:\Users\Milena\source\repos\Domaci 4\Domaci 4\obj\Debug\Windows\Check-In.baml
+C:\Users\Milena\source\repos\Domaci 4\Domaci 4\obj\Debug\Windows\Maintenence.baml
+C:\Users\Milena\source\repos\Domaci 4\Domaci 4\obj\Debug\Windows\Payroll.baml
+C:\Users\i5\Desktop\Domaci 4\Domaci 4\bin\Debug\MaterialDesignColors.dll
+C:\Users\i5\Desktop\Domaci 4\Domaci 4\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\i5\Desktop\Domaci 4\Domaci 4\bin\Debug\MaterialDesignColors.pdb
+C:\Users\i5\Desktop\Domaci 4\Domaci 4\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\i5\Desktop\Domaci 4\Domaci 4\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\i5\Desktop\Domaci 4\Domaci 4\obj\Debug\Domaci 4.csproj.AssemblyReference.cache
+C:\Users\i5\Desktop\Domaci 4\Domaci 4\obj\Debug\Windows\Check-In.g.cs
+C:\Users\i5\Desktop\Domaci 4\Domaci 4\obj\Debug\Windows\Error.g.cs
+C:\Users\i5\Desktop\Domaci 4\Domaci 4\obj\Debug\Windows\Login.g.cs
+C:\Users\i5\Desktop\Domaci 4\Domaci 4\obj\Debug\Windows\Maintenence.g.cs
+C:\Users\i5\Desktop\Domaci 4\Domaci 4\obj\Debug\Windows\MainWindow.g.cs
+C:\Users\i5\Desktop\Domaci 4\Domaci 4\obj\Debug\Windows\Payroll.g.cs
+C:\Users\i5\Desktop\Domaci 4\Domaci 4\obj\Debug\App.g.cs
+C:\Users\i5\Desktop\Domaci 4\Domaci 4\obj\Debug\App.baml
+C:\Users\i5\Desktop\Domaci 4\Domaci 4\obj\Debug\Windows\Check-In.baml
+C:\Users\i5\Desktop\Domaci 4\Domaci 4\obj\Debug\Windows\Error.baml
+C:\Users\i5\Desktop\Domaci 4\Domaci 4\obj\Debug\Windows\Login.baml
+C:\Users\i5\Desktop\Domaci 4\Domaci 4\obj\Debug\Windows\Maintenence.baml
+C:\Users\i5\Desktop\Domaci 4\Domaci 4\obj\Debug\Windows\MainWindow.baml
+C:\Users\i5\Desktop\Domaci 4\Domaci 4\obj\Debug\Windows\Payroll.baml
+C:\Users\i5\Desktop\Domaci 4\Domaci 4\obj\Debug\Domaci 4.csproj.GenerateResource.cache
+C:\Users\i5\Desktop\Domaci 4\Domaci 4\obj\Debug\Domaci 4.csproj.CoreCompileInputs.cache
+C:\Users\i5\Desktop\Domaci 4\Domaci 4\obj\Debug\Domaci 4.csproj.CopyComplete
+C:\Users\i5\Desktop\Domaci 4\Domaci 4\bin\Debug\Rad2.exe.config
+C:\Users\i5\Desktop\Domaci 4\Domaci 4\bin\Debug\Rad2.exe
+C:\Users\i5\Desktop\Domaci 4\Domaci 4\bin\Debug\Rad2.pdb
+C:\Users\i5\Desktop\Domaci 4\Domaci 4\obj\Debug\Rad2_MarkupCompile.cache
+C:\Users\i5\Desktop\Domaci 4\Domaci 4\obj\Debug\Rad2_MarkupCompile.lref
+C:\Users\i5\Desktop\Domaci 4\Domaci 4\obj\Debug\Rad2.g.resources
+C:\Users\i5\Desktop\Domaci 4\Domaci 4\obj\Debug\Rad2.Properties.Resources.resources
+C:\Users\i5\Desktop\Domaci 4\Domaci 4\obj\Debug\Rad2.exe
+C:\Users\i5\Desktop\Domaci 4\Domaci 4\obj\Debug\Rad2.pdb
